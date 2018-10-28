@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "DockerPlex Docs\n\n\nCows go moo", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#dockerplex-docs", 
+            "text": "Cows go moo", 
+            "title": "DockerPlex Docs"
+        }, 
+        {
+            "location": "/docker/docker/", 
+            "text": "Docker", 
+            "title": "Installing Docker"
+        }, 
+        {
+            "location": "/docker/docker/#docker", 
+            "text": "", 
+            "title": "Docker"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about", 
+            "text": "", 
+            "title": "About"
+        }
+    ]
+}
