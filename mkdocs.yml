@@ -20,6 +20,7 @@ theme:
     accent: 'amber'
   feature:
     tabs: true
+  logo: 'images/logo.svg'
 
 markdown_extensions:
   - admonition
