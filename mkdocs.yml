@@ -12,15 +12,14 @@ pages:
     - Installing Docker: docker/docker.md
   - About: about.md
 
-
 theme:
   name: 'material'
+  logo: 'images/logo.png'
   palette:
     primary: 'orange'
     accent: 'amber'
   feature:
     tabs: true
-  logo: 'images/logo.svg'
 
 markdown_extensions:
   - admonition
