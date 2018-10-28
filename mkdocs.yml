@@ -16,8 +16,8 @@ pages:
 theme:
   name: 'material'
   palette:
-    primary: 'light blue'
-    accent: 'blue'
+    primary: 'orange'
+    accent: 'amber'
   feature:
     tabs: true
 
