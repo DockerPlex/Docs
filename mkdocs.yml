@@ -14,9 +14,7 @@ pages:
 
 theme:
   name: 'material'
-  logo: 'images/no-logo.png'
-  #logo:
-  #  icon: ''
+  logo: 'images/logo.png'
   palette:
     primary: 'orange'
     accent: 'amber'
