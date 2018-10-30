@@ -1,3 +1,11 @@
 [data-md-color-primary="orange"] .md-header, [data-md-color-primary="orange"] .md-hero {
   background-color: #ff9900;
 }
+
+.md-tabs {
+  color: #000;
+}
+
+.md-header {
+  color: #000;
+}
