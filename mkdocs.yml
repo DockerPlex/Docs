@@ -6,7 +6,7 @@ site_url: 'https://docs.dockerplex.org'
 docs_dir: mkdocs
 site_dir: docs
 
-pages:
+nav:
   - Home: index.md
   - Docker:
     - Installing Docker: docker/docker.md
