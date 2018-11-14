@@ -10,6 +10,9 @@ install:
 before_deploy:
     - mkdocs build --verbose --clean --strict
 
+script:
+    - echo "test"
+
 deploy:
     provider: pages
     skip_cleanup: true
