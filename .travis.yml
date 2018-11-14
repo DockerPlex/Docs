@@ -4,7 +4,7 @@ python: 3.6.6
 
 branches: master
 
-install:d
+install:
     - pip install mkdocs mkdocs-material pymdown-extensions pygments
 
 before_deploy:
