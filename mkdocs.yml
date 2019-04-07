@@ -1,7 +1,7 @@
-site_name: 'DockerPlex Docs'
-site_description: 'Documentation for complex plex setups using docker'
+site_name: 'DockerPlex wiki'
+site_description: 'Guides for complex plex setups using docker'
 site_author: 'Edy'
-site_url: 'https://docs.dockerplex.org'
+site_url: 'https://wiki.dockerplex.org'
 
 docs_dir: mkdocs
 site_dir: docs
@@ -14,10 +14,10 @@ nav:
 
 theme:
   name: 'material'
-  #logo: 'images/logo.png'
+  logo: 'images/logo.svg'
   palette:
-    primary: 'orange'
-    accent: 'amber'
+    primary: 'red'
+    accent: 'red'
   feature:
     tabs: true
 
