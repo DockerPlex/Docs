@@ -8,11 +8,11 @@ site_dir: docs
 
 nav:
   - Home: 'https://dockerplex.org/'
-  - Install:
-    - Getting started: 'index.md'
-    - Docker: 'docker/docker.md'
-    - Configuration: 'docker/config.md'
-  - About: 'about.md'
+#  - Install:
+#    - Getting started: 'index.md'
+#    - Docker: 'docker/docker.md'
+#    - Configuration: 'docker/config.md'
+#  - About: 'about.md'
 
 theme:
   name: 'material'
