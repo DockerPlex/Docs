@@ -7,12 +7,14 @@ docs_dir: mkdocs
 site_dir: docs
 
 nav:
-  - 'Home': 'https://dockerplex.org/'
-  - 'Install':
-    - 'Getting started': 'index.md'
-    - 'Docker': 'docker/docker.md'
-    - 'Configuration': 'docker/config.md'
-  - 'About': 'about.md'
+  - Home: 
+    - website: https://dockerplex.org/
+  - Install:
+    - Getting started: index.md
+    - Docker: docker/docker.md
+    - Configuration: docker/config.md
+  - About: 
+    - about: about.md
 
 theme:
   name: 'material'
